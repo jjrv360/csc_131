@@ -63,8 +63,8 @@ nav {
 .winner .winner-img img {
   display: block;
   width: 100%;
-  max-width: 250px; /*actual image width*/
-  max-height: 400px;
+  max-width: 450px; /*actual image width*/
+  max-height: 720px;
   height: auto; /* maintain aspect ratio*/
   margin: auto; /*optional centering of image*/
   border-radius: 25px;
@@ -97,8 +97,8 @@ div.search-fields{
 .nominees img {
   display: inline-block;
   width: 100%;
-  width: 100px; /*actual image width*/
-  height: 175px;
+  width: 180px; /*actual image width*/
+  height: 270px;
   margin: 10px;
   border-radius: 10px;
   border: solid 2px;
